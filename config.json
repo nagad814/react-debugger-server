@@ -2,6 +2,6 @@
   "url": "https://react-native-debugger.herokuapp.com/",
   "limit": 100,
   "port": 80,
-  "user": "admin",
-  "password": "Secret123"
+  "user": "ConnectMeAdmin",
+  "password": "ConnectMeSecret123"
 }
